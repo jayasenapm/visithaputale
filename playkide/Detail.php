@@ -1,6 +1,7 @@
 
 <?php 
 echo 'jaya';
+echo jayasena;
 //index.php
 
 include('database_connection.php');
