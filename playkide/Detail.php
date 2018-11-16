@@ -2,6 +2,7 @@
 <?php 
 echo 'jaya';
 echo jayasena;
+echo jayasena palihakoon;
 //index.php
 
 include('database_connection.php');
